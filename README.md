@@ -1,6 +1,6 @@
 # 🌐 Industrial Infrastructure Migration & Network Engineering Docs
 
-![Network Topology](diagrams/network-topology.png)
+![Network Topology](diagrams/rack_diagram.png)
 
 ## 📌 Executive Summary
 
