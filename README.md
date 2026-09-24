@@ -36,14 +36,14 @@ The primary business directive was to execute a seamless, site-to-site operation
 
 ## 📁 Repository Structure
 
-'''
-.
+```
+
 ├── README.md                          # Main documentation
 ├── diagrams/
 │   └── rack_diagram.png               # Exported rack & network topology diagram
 └── data/
     └── networking_mapping/            # Sanitized port mapping
-'''
+```
 
 ---
 
