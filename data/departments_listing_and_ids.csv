@@ -1,4 +1,4 @@
-Codigo;NumeraÁ„o;Setor
+Codigo;Numera√ß√£o;Setor
 Ilha;1;Vendas Online
 Ilha;2;Comercial
 Ilha;3;Comercial
@@ -9,17 +9,17 @@ Sala;1;RH
 Sala;2;DP
 Sala;3;Desenvolvimento
 Sala;4;Financeiro
-Sala;5;Reuni„o1
-Sala;6;Reuni„o2
+Sala;5;Reuni√£o1
+Sala;6;Reuni√£o2
 Sala;7;Diretoria1
 Sala;8;Diretoria2
 Sala;9;Arquivo
 Sala;10;Recepcao
 Prod;1;Almoxarifado
-Prod;2;SeparaÁ„o
+Prod;2;Separa√ß√£o
 Prod;3;Acabamento
-Prod;4;ExpediÁ„o
-Prod;5;RelÛgio
+Prod;4;Expedi√ß√£o
+Prod;5;Rel√≥gio
 AP;2;Producao
 AP;1;ADM
 Prod;6;Estilo
